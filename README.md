@@ -2,7 +2,7 @@
 - 👀 I’m interested in
 - 🌱 I’m currently learning Python basis
 - 💞️ I’m looking to collaborate on
-- 📫 How to reach me @Bedi_C_bashkoi TG
+- 📫 How to reach me @Slimy_Tony TG
 
 <!---
 Andrey-723/Andrey-723 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
